@@ -24,7 +24,9 @@ Me encanta trabajar en equipo, el aprendizaje autodidacta acompañado de practic
   <a href="#"><img  alt="Git" src="https://img.shields.io/badge/Git-101010?style=for-the-badge&logo=git"/></a>
  
 </div>
+
 ---
+
 ## 👥 Redes
 
 <div>
