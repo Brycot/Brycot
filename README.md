@@ -10,7 +10,7 @@ Apasionado completamente por la programación, explorando cada día aprender má
 siempre diespuesto a adentrarme en la solución de problemas que se me presenten
 en el día a día, buscando oportunidades que me hagan crecer y mejorar mis habilidades.
 
-me encanta Trabajar en equipo, el aprendizaje autodidacta acompañado de practica
+Me encanta Trabajar en equipo, el aprendizaje autodidacta acompañado de practica
 
 ---
 ## 🖥️ Tecnologias
