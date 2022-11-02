@@ -18,9 +18,10 @@ Me encanta trabajar en equipo, el aprendizaje autodidacta acompañado de practic
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#"><img  alt="HTML" src="https://img.shields.io/badge/HTML-7a2709?style=for-the-badge&logo=html5"/></a>
   <a href="#"><img  alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3"/></a>
-  <a href="#"><img  alt="JS" src="https://img.shields.io/static/v1?label=&message=JavaScript&color=c4af0a&style=for-the-badge&logo=javascript"/></a>
+  <a href="#"><img  alt="JS" src="https://img.shields.io/static/v1?label=&message=JavaScript&color=706d0c&style=for-the-badge&logo=javascript"/></a>
   <a href="#"><img  alt="React" src="https://img.shields.io/static/v1?label=&message=REACT&color=666666&style=for-the-badge&logo=react"/></a>
-  <a href="#"><img  alt="Figma" src="https://img.shields.io/badge/-Figma-0A1A2F?style=for-the-badge&logo=figma&color=f76e5f&logoColor=white"/></a>
+  <a href="#"><img  alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux"/></a>
+  <a href="#"><img  alt="Git" src="https://img.shields.io/badge/Git-101010?style=for-the-badge&logo=git"/></a>
 
 </div>
 ---
