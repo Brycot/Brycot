@@ -3,14 +3,14 @@
 ---
 ## 🙋‍♂️ Sobre Mi
 
-Desarrolador Web enfocado en el frontend, me encanta programar, desarrollar proyectos 
-funcionales que con el tiempo me lleven a ser un mejor desarrollador.
+Desarrollador Web enfocado en el frontend, me encanta programar, desarrollar proyectos 
+funcionales que con el tiempo me lleven a ser un mejor programador.
 
 Apasionado completamente por la programación, explorando cada día aprender más, 
 siempre diespuesto a adentrarme en la solución de problemas que se me presenten
-en el día a día, buscando oportunidades que me hagan crecer y mejorar mis habilidades.
+en el día a día, buscando oportunidades que hagan crecer mis habilidades.
 
-Me encanta Trabajar en equipo, el aprendizaje autodidacta acompañado de practica
+Me encanta Trabajar en equipo y el aprendizaje autodidacta acompañado de practica
 
 ---
 ## 🖥️ Tecnologias
