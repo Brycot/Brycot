@@ -32,7 +32,7 @@ Me encanta Trabajar en equipo y el aprendizaje autodidacta acompañado de practi
 
 <div>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/bryan-ismael-figueroa-quiroz-15701a228/"><img  alt="Linkdin" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=101010"/></a>
+  <a href="https://www.linkedin.com/in/bryan-ismael-figueroa-quiroz-15701a228/"><img  alt="Linkdin" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=eee"/></a>
   <a href="https://twitter.com/braico_m"><img  alt="twitter" src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="#"><img  alt="instragram" src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
