@@ -3,14 +3,11 @@
 ---
 ## 🙋‍♂️ Sobre Mi
 
-Desarrollador Web enfocado en el frontend, me encanta programar, desarrollar proyectos 
-funcionales que con el tiempo me lleven a ser un mejor programador.
+Soy un desarrollador Full-Stack con una actitud positiva y orientada al trabajo en equipo, con habilidades técnicas sólidas y una pasión por la resolución de conflictos. Estoy seguro de que puedo hacer una contribución significativa a cualquier equipo de desarrollo y estoy emocionado de seguir creciendo y aprendiendo en mi carrera como desarrollador.
 
-Apasionado completamente por la programación, explorando cada día aprender más, 
-siempre dispuesto a adentrarme en la solución de problemas que se me presenten
-en el día a día, buscando oportunidades que hagan crecer mis habilidades.
+Soy un individuo muy motivado y comprometido. Me esfuerzo por superar continuamente mis límites para alcanzar resultados sobresalientes en todo lo que hago. Me considero una persona adaptable y capaz de trabajar en diferentes entornos y situaciones, lo que me permite abordar cualquier desafío que se presente con confianza y eficacia.
 
-Me encanta Trabajar en equipo y el aprendizaje autodidacta acompañado de practica
+Durante mi tiempo como desarrollador, he tenido la oportunidad de trabajar en una variedad de proyectos en los que he podido aprender y poner en práctica mis habilidades técnicas. Soy competente en una variedad de tecnologías y lenguajes de programación, incluyendo React, Express, MySQL, MongoDB, PostgreeSQL y muchas más.
 
 ---
 ## 🖥️ Tecnologias
