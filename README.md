@@ -7,7 +7,7 @@ Soy un desarrollador Full-Stack con una actitud positiva y orientada al trabajo 
 
 Soy un individuo muy motivado y comprometido. Me esfuerzo por superar continuamente mis límites para alcanzar resultados sobresalientes en todo lo que hago. Me considero una persona adaptable y capaz de trabajar en diferentes entornos y situaciones, lo que me permite abordar cualquier desafío que se presente con confianza y eficacia.
 
-Durante mi tiempo como desarrollador, he tenido la oportunidad de trabajar en una variedad de proyectos en los que he podido aprender y poner en práctica mis habilidades técnicas. Soy competente en una variedad de tecnologías y lenguajes de programación, incluyendo React, Express, MySQL, MongoDB, PostgreeSQL y muchas más.
+Durante mi tiempo como desarrollador, he tenido la oportunidad de trabajar en una variedad de proyectos en los que he podido aprender y poner en práctica mis habilidades técnicas. Soy competente en una variedad de tecnologías y lenguajes de programación, incluyendo React, Express, MySQL, MongoDB, PostgreSQL y muchas más.
 
 ---
 ## 🖥️ Tecnologias
